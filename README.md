@@ -5,4 +5,6 @@
 
 <h2>1. 프로젝트 환경설정<h2/>
     <a href="https://stbhg5.tistory.com/844">프로젝트 생성</a><br/>
+    <a href="https://stbhg5.tistory.com/847">라이브러리 살펴보기</a><br/>
+    <a href=""></a><br/>
     <br/>
