@@ -7,4 +7,10 @@
     <a href="https://stbhg5.tistory.com/844">프로젝트 생성</a><br/>
     <a href="https://stbhg5.tistory.com/847">라이브러리 살펴보기</a><br/>
     <a href="https://stbhg5.tistory.com/850">View 환경설정</a><br/>
+    <a href="https://stbhg5.tistory.com/853">빌드하고 실행하기</a><br/>
+    <br/>
+
+<h2>2. 스프링 웹 개발 기초<h2/>
+    <a href="https://stbhg5.tistory.com/854">정적 컨텐츠</a><br/>
+    <a href=""></a><br/>
     <br/>
