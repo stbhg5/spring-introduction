@@ -12,5 +12,6 @@
 
 <h2>2. 스프링 웹 개발 기초<h2/>
     <a href="https://stbhg5.tistory.com/854">정적 컨텐츠</a><br/>
+    <a href="https://stbhg5.tistory.com/857">MVC와 템플릿 엔진</a><br/>
     <a href=""></a><br/>
     <br/>
