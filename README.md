@@ -16,8 +16,8 @@
     <a href="https://stbhg5.tistory.com/858">API</a><br/>
     <br/>
 
-<h2><h2/>
-    <a href=""></a><br/>
+<h2>3. 회원 관리 예제 - 백엔드 개발<h2/>
+    <a href="https://stbhg5.tistory.com/861">비즈니스 요구사항 정리</a><br/>
     <a href=""></a><br/>
     <br/>
 
