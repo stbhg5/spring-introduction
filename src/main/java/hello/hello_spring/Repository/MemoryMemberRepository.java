@@ -1,4 +1,4 @@
-package hello.hello_spring.Repository;
+package hello.hello_spring.repository;
 
 import hello.hello_spring.domain.Member;
 
@@ -34,6 +34,10 @@ public class MemoryMemberRepository implements MemberRepository {
     @Override
     public List<Member> findAll() {
         return new ArrayList<>(store.values());
+    }
+
+    public void clearStore() {
+        store.clear();
     }
 
 }
