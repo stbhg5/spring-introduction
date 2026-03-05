@@ -21,6 +21,11 @@
     <a href="https://stbhg5.tistory.com/862">회원 도메인과 리포지토리 만들기</a><br/>
     <a href="https://stbhg5.tistory.com/866">회원 리포지토리 테스트 케이스 작성</a><br/>
     <a href="https://stbhg5.tistory.com/867">회원 서비스 개발</a><br/>
+    <a href="https://stbhg5.tistory.com/870">회원 서비스 테스트</a><br/>
+    <br/>
+
+<h2><h2/>
+    <a href=""></a><br/>
     <a href=""></a><br/>
     <br/>
 
