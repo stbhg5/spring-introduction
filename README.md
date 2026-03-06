@@ -24,8 +24,8 @@
     <a href="https://stbhg5.tistory.com/870">회원 서비스 테스트</a><br/>
     <br/>
 
-<h2><h2/>
-    <a href=""></a><br/>
+<h2>4. 스프링 빈과 의존관계<h2/>
+    <a href="https://stbhg5.tistory.com/871">컴포넌트 스캔과 자동 의존관계 설정</a><br/>
     <a href=""></a><br/>
     <br/>
 
