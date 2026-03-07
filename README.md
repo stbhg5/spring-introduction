@@ -26,7 +26,7 @@
 
 <h2>4. 스프링 빈과 의존관계<h2/>
     <a href="https://stbhg5.tistory.com/871">컴포넌트 스캔과 자동 의존관계 설정</a><br/>
-    <a href=""></a><br/>
+    <a href="https://stbhg5.tistory.com/872">자바 코드로 직접 스프링 빈 등록하기</a><br/>
     <br/>
 
 <h2><h2/>
