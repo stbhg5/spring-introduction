@@ -29,6 +29,11 @@
     <a href="https://stbhg5.tistory.com/872">자바 코드로 직접 스프링 빈 등록하기</a><br/>
     <br/>
 
+<h2>5. 회원 관리 예제 - 웹 MVC 개발<h2/>
+    <a href="https://stbhg5.tistory.com/876">회원 웹 기능 - 홈 화면 추가</a><br/>
+    <a href=""></a><br/>
+    <br/>
+
 <h2><h2/>
     <a href=""></a><br/>
     <a href=""></a><br/>
