@@ -32,7 +32,7 @@
 <h2>5. 회원 관리 예제 - 웹 MVC 개발<h2/>
     <a href="https://stbhg5.tistory.com/876">회원 웹 기능 - 홈 화면 추가</a><br/>
     <a href="https://stbhg5.tistory.com/880">회원 웹 기능 - 등록</a><br/>
-    <a href=""></a><br/>
+    <a href="https://stbhg5.tistory.com/884">회원 웹 기능 - 조회</a><br/>
     <br/><br/>
 
 <h2><h2/>
