@@ -35,6 +35,11 @@
     <a href="https://stbhg5.tistory.com/884">회원 웹 기능 - 조회</a><br/>
     <br/><br/>
 
+<h2>6. 스프링 DB 접근 기술<h2/>
+    <a href="https://stbhg5.tistory.com/887">H2 데이터베이스 설치</a><br/>
+    <a href=""></a><br/>
+    <br/><br/>
+
 <h2><h2/>
     <a href=""></a><br/>
     <a href=""></a><br/>
