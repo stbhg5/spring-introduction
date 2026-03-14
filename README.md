@@ -39,6 +39,7 @@
     <a href="https://stbhg5.tistory.com/887">H2 데이터베이스 설치</a><br/>
     <a href="https://stbhg5.tistory.com/888">순수 JDBC</a><br/>
     <a href="https://stbhg5.tistory.com/890">스프링 통합 테스트</a><br/>
+    <a href="https://stbhg5.tistory.com/891">스프링 JdbcTemplate</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
