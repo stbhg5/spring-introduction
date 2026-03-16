@@ -41,7 +41,7 @@
     <a href="https://stbhg5.tistory.com/890">스프링 통합 테스트</a><br/>
     <a href="https://stbhg5.tistory.com/891">스프링 JdbcTemplate</a><br/>
     <a href="https://stbhg5.tistory.com/896">JPA</a><br/>
-    <a href=""></a><br/>
+    <a href="https://stbhg5.tistory.com/898">스프링 데이터 JPA</a><br/>
     <br/><br/>
 
 <h2><h2/>
