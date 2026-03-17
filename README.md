@@ -44,7 +44,7 @@
     <a href="https://stbhg5.tistory.com/898">스프링 데이터 JPA</a><br/>
     <br/><br/>
 
-<h2><h2/>
-    <a href=""></a><br/>
+<h2>7. AOP<h2/>
+    <a href="https://stbhg5.tistory.com/899">AOP가 필요한 상황</a><br/>
     <a href=""></a><br/>
     <br/><br/>
