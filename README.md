@@ -46,5 +46,5 @@
 
 <h2>7. AOP<h2/>
     <a href="https://stbhg5.tistory.com/899">AOP가 필요한 상황</a><br/>
-    <a href=""></a><br/>
+    <a href="https://stbhg5.tistory.com/900">AOP 적용</a><br/>
     <br/><br/>
